@@ -1,0 +1,73 @@
+Class:
+
+Class is a blueprint of a Object.
+-------
+Constructor call only one time at the starting time when creating a Object
+Setter-Getter used for to set and get value or we want change in future
+this is keyword in java point to the current object
+this is used to avoid shadowing of object means  
+
+Static :-
+
+Assignment:
+
+1:Write a Calculator class with basic arithmetic operations.Create another class - CalculatorMain .In CalculatorMain class create instance of Calculator class and call the methods.
+
+
+2: Write a java program to print person details in the format as shown below:
+First Name: Akhilesh
+Last Name: Joshi
+Gender: M
+Date Of Birth : 12-Dec-1998
+Marital Status : Single
+
+3: Write a program to accept a number from user as a command line argument and check
+whether the given number is positive or negative numb
+
+-------------------
+Why Interface ?
+-To achieve Multiple inheritance - 1 se jada parent hote hai
+-To achieve loose coupling - interface kahi par b use ho sakta matlab ki alag alg class me b kar sakte hai
+
+interface can contain non-implemented method and static and default method
+---------
+
+toString method is from Object class.It is used to print representation of object.
+
+
+-------
+11-03-25
+
+Assignment:
+
+1.pop up msg print on console
+https://register.rediff.com/register/register.php?FormName=user_details
+
+2.Window handle
+https://demoqa.com/browser-windows
+
+#iframe
+https://jqueryui.com/droppable/
+
+3.Multiple Window Handle
+https://demoqa.com/browser-windows
+---
+
+Tqkescreenshot::
+
+add jar
+https://commons.apache.org/io/download_io.cgi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
