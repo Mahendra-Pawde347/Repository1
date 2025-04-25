@@ -1,0 +1,16 @@
+Jenkins::
+
+6390235b0d334e03bdedbd86b86ebdab
+
+
+Jenkins is a Java Application.
+its free and open source
+it is CI/CD tool
+
+Continous Integration:
+
+
+Continous Delivery:
+
+
+Continous Deployment:
